@@ -1,3 +1,3 @@
 # Atm-Management-System
 
-### Made by Vikram and Anish
+### Made by Vikramaditya and Anish
