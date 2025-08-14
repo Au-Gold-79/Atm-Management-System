@@ -1,8 +1,4 @@
-Here’s a complete, polished README.md for your ATM Management System:
-
-
 ---
-
 # 🏦 ATM Management System (Python + MySQL)
 
 ### A simple yet powerful command-line ATM simulator built with Python and MySQL.
